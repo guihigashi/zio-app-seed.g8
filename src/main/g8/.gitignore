@@ -1,0 +1,15 @@
+*.class
+*.log
+.bloop/
+.bsp/
+.cache
+.history
+.lib/
+.metals/
+dist/*
+lib_managed/
+project/**/metals.sbt
+project/boot/
+project/plugins/project/
+src_managed/
+target/
