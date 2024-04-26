@@ -5,7 +5,7 @@ ThisBuild / scalaVersion := "$scalaVersion$"
 lazy val zioVersion = "$zioVersion$"
 
 lazy val root = project
-  .file(".")
+  .in(file("."))
   .settings(
     name        := "$name$",
     description := "$description$",
