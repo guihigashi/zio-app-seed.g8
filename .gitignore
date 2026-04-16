@@ -14,3 +14,4 @@ project/boot/
 project/plugins/project/
 src_managed/
 target/
+.idea
